@@ -1,0 +1,4 @@
+repository "Character Randomisation System@unity_cwFWntLVQsSojw@cloud"
+  path "/"
+    br "/main"
+    co "/main"
